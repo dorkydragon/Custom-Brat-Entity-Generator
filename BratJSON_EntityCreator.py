@@ -3,7 +3,6 @@
 # Date: 06/19/2014
 # 
 # Purpose: Creates JSON Doc compatible with Brat NLP Visualizer json format. 
-# based on category data from Insight Models.
 
 import sys 
 import csv
